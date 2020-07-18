@@ -133,9 +133,9 @@ function App() {
         )}
       </header>
       <div className="App__personalization">
-        <h2>Personalization</h2>
         <div className="App__personalization-split">
           <div className="App__personalization-left">
+            <h2>Personalization</h2>
             <p>
               This calculator aims to naively find out how many years, months,
               and days you'll have to wait before you have enough money in

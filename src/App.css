@@ -34,11 +34,13 @@
 
 .App__personalization-split {
   display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
   justify-content: space-between;
 }
 
 .App__personalization-left {
-  width: 30%;
+  width: 50%;
 }
 
 .App__personalization-left p + p {
